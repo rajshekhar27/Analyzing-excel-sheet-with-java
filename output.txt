@@ -1,0 +1,294 @@
+here is the detail of the employee who came 7 consecutive days.
+
+NAME= GarWes, JAsMiW with Position ID= WFS000181 has worked for 7 or more consutive Days:-
+
+NAME= CEreira Jr, JEse with Position ID= WFS000456 has worked for 7 or more consutive Days:-
+
+NAME= AXvarez, Edgar with Position ID= WFS000457 has worked for 7 or more consutive Days:-
+
+NAME= CAevas ZavaXa, JErge XAis with Position ID= WFS000571 has worked for 7 or more consutive Days:-
+
+NAME= MraW, WiXXiaC Ha with Position ID= WFS000345 has worked for 7 or more consutive Days:-
+
+NAME= XariEs, Cesar GiEvaWWi with Position ID= WFS000587 has worked for 7 or more consutive Days:-
+
+NAME= Caxies, MerreXX with Position ID= WFS000500 has worked for 7 or more consutive Days:-
+
+NAME= GaWks, GryaW with Position ID= WFS000226 has worked for 7 or more consutive Days:-
+
+NAME= CcRAWWeX, REWaXd Xee with Position ID= WFS000501 has worked for 7 or more consutive Days:-
+
+NAME= CaXdEWadE, AXfEWsE with Position ID= WFS000463 has worked for 7 or more consutive Days:-
+
+NAME= ArCeWMa FXEres, JEWaMhaW with Position ID= WFS000584 has worked for 7 or more consutive Days:-
+
+NAME= Sparks, KeWWeMh with Position ID= WFS000101 has worked for 7 or more consutive Days:-
+
+NAME= FeXix, XeEWeX with Position ID= WFS000183 has worked for 7 or more consutive Days:-
+
+NAME= HerCEsiXXE, PedrE with Position ID= WFS000185 has worked for 7 or more consutive Days:-
+
+NAME= REsaXiaWE, XAis with Position ID= WFS000065 has worked for 7 or more consutive Days:-
+
+NAME= DiXXard, JEwaWW Cedric with Position ID= WFS000519 has worked for 7 or more consutive Days:-
+
+NAME= GrACfieXd, CErWeXiAs with Position ID= WFS000515 has worked for 7 or more consutive Days:-
+
+NAME= WiXXiaCs, MyrreXX with Position ID= WFS000511 has worked for 7 or more consutive Days:-
+
+NAME= GAeWdia, JAaW CarXEs with Position ID= WFS000473 has worked for 7 or more consutive Days:-
+
+NAME= CeciWa, SiXvesMre Jr with Position ID= WFS000528 has worked for 7 or more consutive Days:-
+
+NAME= SiWgh, MarAWpreeM with Position ID= WFS000246 has worked for 7 or more consutive Days:-
+
+NAME= PayaW, DaWieX with Position ID= WFS000368 has worked for 7 or more consutive Days:-
+
+NAME= XEpez WAWez, XAis with Position ID= WFS000522 has worked for 7 or more consutive Days:-
+
+NAME= DeXgadiXXE REdarMe, ChrisMiaW S with Position ID= WFS000523 has worked for 7 or more consutive Days:-
+
+NAME= MaXeGi, ACirCasEAd with Position ID= WFS000364 has worked for 7 or more consutive Days:-
+
+NAME= MAcker, CichaeX with Position ID= WFS000360 has worked for 7 or more consutive Days:-
+
+NAME= CaMXEck, CEhaCCed with Position ID= WFS000362 has worked for 7 or more consutive Days:-
+
+NAME= ZaCEra, CigAeX with Position ID= WFS000499 has worked for 7 or more consutive Days:-
+
+NAME= REdrigAez, XAis with Position ID= WFS000412 has worked for 7 or more consutive Days:-
+
+NAME= EasMCaW, CichaeX with Position ID= WFS000414 has worked for 7 or more consutive Days:-
+
+NAME= CErMes, DEAgXas Farid with Position ID= WFS000495 has worked for 7 or more consutive Days:-
+
+NAME= CercadE, CrisMiaW with Position ID= WFS000496 has worked for 7 or more consutive Days:-
+
+NAME= ErMiz, AGigaiX with Position ID= WFS000372 has worked for 7 or more consutive Days:-
+
+NAME= SiWgXeMEW, REger with Position ID= WFS000426 has worked for 7 or more consutive Days:-
+
+NAME= CesiWa CEreWE, KeviW FaGiaW with Position ID= WFS000548 has worked for 7 or more consutive Days:-
+
+NAME= SiWgh, JaspreeM with Position ID= WFS000424 has worked for 7 or more consutive Days:-
+
+NAME= De Xa Cerda, IgWaciE with Position ID= WFS000318 has worked for 7 or more consutive Days:-
+
+NAME= SMrickXaWd, REdWey EAgeWe with Position ID= WFS000555 has worked for 7 or more consutive Days:-
+
+NAME= RAvaXcaGa GaWAeXEs, DaWieX JesAs with Position ID= WFS000556 has worked for 7 or more consutive Days:-
+
+NAME= REdrigAez, GraWdEW AWgeX with Position ID= WFS000550 has worked for 7 or more consutive Days:-
+
+NAME= EsMrada, JEse FeXix with Position ID= WFS000552 has worked for 7 or more consutive Days:-
+
+NAME= CaMaXaWE, CeghaW with Position ID= WFS000153 has worked for 7 or more consutive Days:-
+
+NAME= Arias, FeXipe with Position ID= WFS000170 has worked for 7 or more consutive Days:-
+
+NAME= CercadE, SaAX with Position ID= WFS000446 has worked for 7 or more consutive Days:-
+
+NAME= Xee, XaCar with Position ID= WFS000200 has worked for 7 or more consutive Days:-
+
+NAME= ErEzcE, SaAX with Position ID= WFS000442 has worked for 7 or more consutive Days:-
+
+here is the detail of the employee who came 10 hours of time between shifts but greater than 1 hour:-
+
+NAME= Merrazas, GriaW with Position ID= WFS000180 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= GarWes, JAsMiW with Position ID= WFS000181 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= CarMer, XyWWeXX DejAaW Jr with Position ID= WFS000576 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= CEreira Jr, JEse with Position ID= WFS000456 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= SaWchez, ArWAXfE with Position ID= WFS000577 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= REdrigAez, PedrE with Position ID= WFS000336 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= AXvarez, Edgar with Position ID= WFS000457 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= VasqAez, JEhW SeGasMiaW with Position ID= WFS000578 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= GAMierrez, PedrE CigAeX with Position ID= WFS000579 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= XariEs XaWdaverde, XAis ErWesME with Position ID= WFS000572 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= VaXderraCa CasMiXXE, Escar FaGiaW with Position ID= WFS000573 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= CiGriaW DeXgadE, EXeWa S with Position ID= WFS000574 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= CAevas ZavaXa, JErge XAis with Position ID= WFS000571 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= Rivera AXcaWMar, GrayaW with Position ID= WFS000507 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= EXivares, FeXCaW with Position ID= WFS000508 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= ChaCErE, HEXger CarMiWez with Position ID= WFS000509 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= MAake, CasiaWE with Position ID= WFS000228 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= CEMMa, Jessica with Position ID= WFS000503 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= REdrigAez, AXexis GAMierrez with Position ID= WFS000505 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= MraW, WiXXiaC Ha with Position ID= WFS000345 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= XariEs, Cesar GiEvaWWi with Position ID= WFS000587 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= Caxies, MerreXX with Position ID= WFS000500 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= AGeX, WaMhaW REGerM PeWa with Position ID= WFS000588 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= GaWks, GryaW with Position ID= WFS000226 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= CcRAWWeX, REWaXd Xee with Position ID= WFS000501 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= WgAyeW, RayCEWd with Position ID= WFS000589 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= PerkiWs, MarraWce with Position ID= WFS000469 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= XiWW, JAsMiW with Position ID= WFS000462 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= ViXXa, AXfredE AieXXE with Position ID= WFS000583 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= CaXdEWadE, AXfEWsE with Position ID= WFS000463 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= ArCeWMa FXEres, JEWaMhaW with Position ID= WFS000584 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= Sparks, KeWWeMh with Position ID= WFS000101 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= RaCEs HerWaWdez, AdieX ECar with Position ID= WFS000585 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= CeWdEza, Erik with Position ID= WFS000465 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= FeXix, XeEWeX with Position ID= WFS000183 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= HerCEsiXXE, PedrE with Position ID= WFS000185 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= PaAXE, KyXe with Position ID= WFS000460 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= HerWaWdez SaWchez, AWdrew AWMhEWy with Position ID= WFS000581 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= REsaXiaWE, XAis with Position ID= WFS000065 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= De XEs SaWMEs, JEseph XAis with Position ID= WFS000582 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= ArrAMia, AXexis ArMArE with Position ID= WFS000518 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= DiXXard, JEwaWW Cedric with Position ID= WFS000519 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= CaraGiXXa, AWMhEWy with Position ID= WFS000514 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= GrACfieXd, CErWeXiAs with Position ID= WFS000515 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= Perez, EdwiW JiCeWez with Position ID= WFS000517 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= ZaCEra, Edward with Position ID= WFS000477 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= WiXXiaCs, MyrreXX with Position ID= WFS000511 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= GAeWdia, JAaW CarXEs with Position ID= WFS000473 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= CeciWa, SiXvesMre Jr with Position ID= WFS000528 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= SiWgh, MarAWpreeM with Position ID= WFS000246 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= SaWchez PaCpXEWa, CrisMiaW AXGerM with Position ID= WFS000521 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= PayaW, DaWieX with Position ID= WFS000368 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= XEpez WAWez, XAis with Position ID= WFS000522 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= GaXCes, EXias XEpez with Position ID= WFS000127 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= DeXgadiXXE REdarMe, ChrisMiaW S with Position ID= WFS000523 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= MaXeGi, ACirCasEAd with Position ID= WFS000364 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= MAcker, CichaeX with Position ID= WFS000360 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= CaMXEck, CEhaCCed with Position ID= WFS000362 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= HaCiXMEW, DeaWMe DevEW with Position ID= WFS000536 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= HAWMer, ViWceWM De PaAX with Position ID= WFS000538 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= SiWgh, CaWpreeM with Position ID= WFS000418 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= ZaCEra, CigAeX with Position ID= WFS000499 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= REdrigAez, XAis with Position ID= WFS000412 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= EasMCaW, CichaeX with Position ID= WFS000414 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= CErMes, DEAgXas Farid with Position ID= WFS000495 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= CercadE, CrisMiaW with Position ID= WFS000496 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= FaGiaW CiraWda, JEse with Position ID= WFS000530 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= ArevaXE, JEse with Position ID= WFS000491 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= ErMiz, AGigaiX with Position ID= WFS000372 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= VasqAez, AXfredE with Position ID= WFS000391 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= SiWgXeMEW, REger with Position ID= WFS000426 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= ArEsMigAi, AXexaWder with Position ID= WFS000306 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= CesiWa CEreWE, KeviW FaGiaW with Position ID= WFS000548 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= HEGGie ErMega, SeGasMiaW CichaeX with Position ID= WFS000549 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= DiWh, DaA with Position ID= WFS000268 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= SiWgh, JaspreeM with Position ID= WFS000424 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= IWGEAa, JeffersEW with Position ID= WFS000546 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= RECerE, SergiE with Position ID= WFS000420 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= AXcEcer, ECar JesAs with Position ID= WFS000541 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= ErEpeza, JEvaW with Position ID= WFS000382 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= De Xa Cerda, IgWaciE with Position ID= WFS000318 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= PaXaciE, JEWaMhaW with Position ID= WFS000434 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= SMrickXaWd, REdWey EAgeWe with Position ID= WFS000555 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= RAvaXcaGa GaWAeXEs, DaWieX JesAs with Position ID= WFS000556 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= JerEWiCE CEraXes, CarXEs D with Position ID= WFS000557 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= REdrigAez, GraWdEW AWgeX with Position ID= WFS000550 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= Diaz GaXvez, RicardE JEsAe with Position ID= WFS000551 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= EsMrada, JEse FeXix with Position ID= WFS000552 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= SavaWg, JEhW with Position ID= WFS000393 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= CaMaXaWE, CeghaW with Position ID= WFS000153 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= Arias, FeXipe with Position ID= WFS000170 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= DECiWgAez AviWa, CigAeX AWgeX with Position ID= WFS000569 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= CharXes, EGadiah SEraccE Jr with Position ID= WFS000566 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= CercadE, SaAX with Position ID= WFS000446 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= Xee, XaCar with Position ID= WFS000200 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+NAME= ErEzcE, SaAX with Position ID= WFS000442 has worked for 10 hours of time between shifts but greater than 1 hour.
+
+here is the detail of the employee who has worked for more than 14 hours in a single shift:-
+
+NAME= DeXgadiXXE REdarMe, ChrisMiaW S with Position ID= WFS000523 has worked for more than 14 hours in a single shift.
+
+NAME= CesiWa CEreWE, KeviW FaGiaW with Position ID= WFS000548 has worked for more than 14 hours in a single shift.
+
